@@ -1,0 +1,10 @@
+[client]
+showErrorDetails = true
+
+[theme]
+primaryColor = "#f63366"
+backgroundColor = "white"
+
+[server]
+maxMessageSize = 500
+runOnSave = true
