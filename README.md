@@ -14,6 +14,8 @@ This repository contains 1 [jupyter notebook](https://github.com/normanmunge/gmc
 
 It is a basic app using Streamlit to showcase for my portfolio. Interested parties can fork it and improve on it.
 
+The app has been deployed to [streamlit](https://bank-financial-inclusion.streamlit.app/)
+
 ### Running the notebook
 
 The instructions below show how to run the notebooks on a mac terminal.
