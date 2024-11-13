@@ -4,11 +4,11 @@ import numpy as np
 from sklearn import preprocessing
 import joblib
 
-model  =  joblib.load(open('..joblib-files/rm-model.joblib', 'rb'))
-encoder_dict = joblib.load(open('..joblib-files/encoder.joblib', 'rb'))
+model  =  joblib.load(open('../joblib-files/rm-model.joblib', 'rb'))
+encoder_dict = joblib.load(open('../joblib-files/encoder.joblib', 'rb'))
 
 def load_data():
-    return pd.read_csv('..\datasets\financial_inclusion_dataset.csv')
+    return pd.read_csv('../datasets/financial_inclusion_dataset.csv')
 
 def main():
     html_title_temp = """
