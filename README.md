@@ -8,6 +8,8 @@ The objective of the (Zindi challenge)[https://zindi.africa/competitions/financi
 
 To access the dataset use this [link](https://drive.google.com/file/d/1FrFTfUln67599LTm2uMTSqM8DjqpAaKL/view), otherwise it's included in the datasets directory on this repository.
 
+You can test this app on this [link](https://bank-financial-inclusion.streamlit.app/), however, it might be down due to inactivity.
+
 ### About the repository
 
 This repository contains 1 [jupyter notebook](https://github.com/normanmunge/gmc-zindi-financial-inclusion-streamlit/blob/main/financial-inclusion-prediction.ipynb) and a [streamlit app](https://github.com/normanmunge/gmc-zindi-financial-inclusion-streamlit/tree/main/streamlit) to showcase the predictions on a web interface.
